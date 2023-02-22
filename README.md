@@ -31,7 +31,7 @@
 <dd>Components</dd>
 <dd>React Hooks and Custom Hooks</dd>
 <dd>JSX and testing</dd>
-<dd>Final project</dd>
+<dd>Final project</dd><br>
 <dt>Principles of UX/UI Design</dt>
 <dd>Introduction to UX and UI design</dd>
 <dd>Evaluating interactive design</dd>
@@ -50,4 +50,5 @@
 <dd>Final project</dd>
 </dl>
 <h2>Take the course at</h2>
-<p>https://coursera.org/</p>
+<p>https://coursera.org/</p><br>
+![certificate](https://github.com/DevLeoCunha/meta-front-end-developer/blob/main/Meta%20Front-End%20Developer%20-%20Certificate.png)
