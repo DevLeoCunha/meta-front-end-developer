@@ -51,4 +51,4 @@
 </dl>
 <h2>Take the course at</h2>
 <p>https://coursera.org/</p><br>
-![certificate](https://github.com/DevLeoCunha/meta-front-end-developer/blob/main/Meta%20Front-End%20Developer%20-%20Certificate.png)
+
