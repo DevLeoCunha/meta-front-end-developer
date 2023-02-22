@@ -31,7 +31,7 @@
 <dd>Components</dd>
 <dd>React Hooks and Custom Hooks</dd>
 <dd>JSX and testing</dd>
-<dd>Final project</dd><br>
+<dd>Final project</dd>
 <dt>Principles of UX/UI Design</dt>
 <dd>Introduction to UX and UI design</dd>
 <dd>Evaluating interactive design</dd>
