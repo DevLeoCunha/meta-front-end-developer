@@ -48,15 +48,6 @@
 <dd>Introduction to Data Structures</dd>
 <dd>Introduction to Algorithms</dd>
 <dd>Final project</dd>
-
-
-
-
-
-
-
-
-
-
-
 </dl>
+<h2>Take the course at</h2>
+<p>https://coursera.org/</p>
